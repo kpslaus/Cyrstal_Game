@@ -1,0 +1,55 @@
+body{
+	background-image: url(http://pre05.deviantart.net/6471/th/pre/i/2010/236/2/b/the_shining_by_jamesrandom.jpg);
+
+}
+
+.instructions{
+	background-color: black;
+	width: 300px;
+}
+
+p{
+	color: white;
+}
+
+.crystalIcons{
+
+}
+.gameHeader{
+	background-color: black;
+	width: 100px;
+	height: 50px;
+}
+
+h1{
+	color: white;
+}
+
+.gameNumber{
+	background-color: black;
+	width: 100px;
+	height: 50px;
+}
+
+.crystalIcons{
+	width: 350px;
+	height: 150px;
+}
+
+.wins-losses{
+	background-color: black;
+	color: white;
+	width: 100px;
+	height: 50px;
+
+}
+
+.totalScore{
+	background-color: black;
+	color: white;
+	width: 100px;
+	height: 700;
+
+
+
+}
